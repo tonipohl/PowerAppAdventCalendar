@@ -32,7 +32,7 @@ When the two SPO lists are existing, we can create a new Canvas Power App named 
 
 ![Adventcalendar-screen.png](./images/adventcalendar-screen.png)
 
-Note: You can download the Power App from [here](./tree/main/AdventcalendarApp) and import it into your own environment. The app can then be used and analyzed.
+Note: You can download the Power App from [here](https://github.com/tonipohl/PowerAppAdventCalendar/tree/main/AdventcalendarApp) and import it into your own environment. The app can then be used and analyzed.
 
 The screen´s background image can be filled with any picture. In my sample, I took this picture last winter at Sanctuary of Monte Lussari in Italy. In the top right corner, there is a label named username to show the currently signed-in user. We need that information for the calendar status. For multiple controls, I am a fan of using containers, see also a good video from Shane Young at Stop making useless Groups in Power Apps! Containers for the win. This container will contain 24 images, one for each door. We will add them later.
 
@@ -183,6 +183,6 @@ This simple mechanism gives us the functionality we need to have a working adven
 
 ## Power Apps
 
-Build the app yourself or download the Power App [PowerAppAdventCalendar](./tree/main/AdventcalendarApp), import the app, and adapt it as needed. Of course, the advent calendar can still be expanded, for example with additional logic, falling snowflakes and more. I hope this article provides helpful tips and helps with creating your own apps.
+Build the app yourself or download the Power App [PowerAppAdventCalendar](https://github.com/tonipohl/PowerAppAdventCalendar/tree/main/AdventcalendarApp), import the app, and adapt it as needed. Of course, the advent calendar can still be expanded, for example with additional logic, falling snowflakes and more. I hope this article provides helpful tips and helps with creating your own apps.
 
 Finally, I wish you a lot of fun with the other great contents of the Festivetechcalendar.com and a nice Advent season and a relaxing holiday season!
